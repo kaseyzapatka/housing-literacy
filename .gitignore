@@ -1,0 +1,21 @@
+
+# file types
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+**.html
+*.png
+*.pdf
+
+# folders
+literature/
+data/
+admin/
+archived/
+logs/
+
+
+
+
