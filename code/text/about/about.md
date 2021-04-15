@@ -1,0 +1,131 @@
+# About This Project: Housing Literacy
+____________________________________________________
+New York City has some of the strongest rent regulation laws in the country; however, they are also some of the most complex and difficult to decipher. When tenants don’t fully understand their housing rights, it’s difficult to take full advantage of the protections that rent regulation offers. Housing Literacy is a two-year project intended to increase tenants’ housing literacy by identifying particularly important aspects of rent regulation laws and developing resources aimed at helping tenants better understand the City’s rent regulation laws.
+
+The central goal of Housing Literacy is to develop annotations of the three most common documents that renters encounter when signing a lease for a rent-stabilized unit: a standard rent-stabilized lease, a renewal lease, and a lease rider for rent-stabilized tenants. The annotations highlight specific areas of these documents that tenants should read and understand carefully, point them to resources so that they can learn more about these issues, and give them basic knowledge that will empower them to better address their housing-related issues.
+
+For tenants at risk of displacement in the midst of the housing crisis, Housing Literacy is a platform that empowers them to take full advantage of the rights they already have and makes them aware of matters that affect their housing realities. Housing Literacy’s larger aim is to support fair housing practices among diverse communities in a changing urban landscape.
+
+The project lead of Housing Literacy is the Center For the Humanities, Digital Publics Fellow Kasey Zapatka. He is a doctoral student in sociology at The City University of New York, CUNY and encourages any feedback on this project. He can be reached by email at kzapatka@gradcenter.cuny.edu. Be sure to check out many of the other rent-stabilized resources identified below.
+
+#### Legal Disclaimer
+____________________________________________________
+The **information contained on this web page does not constitute legal advice** and must not be used as a substitute for the advice of a lawyer qualified to give advice on legal issues pertaining to housing.
+
+This information pertains only to tenants living in New York City.
+
+Many of your rights depend on the type of housing you live in or your type of tenancy. **You may be subject to different laws and have different sets of rights than even neighbors in your own building. Learn which rights and responsibilities apply to you.**
+
+
+_Here is a list of some legal resources:_
+
+[Rent Guidelines Board List of Resources](https://www1.nyc.gov/site/rentguidelinesboard/resources/legal-assistance.page)
+
+[Rent Regulators](https://rentregulators.com)
+
+[Legal Aid New York City](https://www.legalaidnyc.org/helplines/)
+
+[LawHelpNY](https://www.lawhelpny.org)
+
+[Legal Service NYC](http://www.legalservicesnyc.org/about-us/get-help)
+
+[One Shot Deal](https://www1.nyc.gov/nyc-resources/service/1205/one-shot-deal-short-term-emergency-assistance)
+
+[Monday Night Law](https://www.nycbar.org/get-legal-help/our-services/monday-night-law/)
+
+[City Bar Justice Center](https://www.citybarjusticecenter.org/get-help/)
+
+
+#### NYC Housing-Related Resources
+____________________________________________________
+[Obtaining Your Rent History](https://portal.hcr.ny.gov/app/ask)  
+This is the quick link to the form on New York State’s Homes and Community Renewal Website that allows you to request your unit’s rent history. Landlords of rent-regulated units are required to disclose the rent they are charging every year. Examining this list with a lawyer is the best way for a tenant to determine if their landlord is charging the legal allowable amount.
+
+[Homes and Community Renewal: Fact Sheets](http://www.nyshcr.org/Rent/FactSheets/)  
+This website links readers to the archive of 45 different Fact Sheets that explain major elements of rent control and rent stabilization in New York City. The website is housed on the New York State Homes and Community Renewal’s Office of Rent Administration page.
+
+[Rent Guidelines Board](https://www1.nyc.gov/site/rentguidelinesboard/index.page)  
+The Rent Guidelines Board is mandated to establish rent adjustments for all the units subject to the Rent Stabilization Law in New York City.  The board is appointed by the mayor; consists of members representing various interests; and publishes mandated housing research (NYCHVS), the annual rent adjustments, and other important housing-related resources.
+
+[Tenant’s Rights](https://ag.ny.gov/sites/default/files/tenants_rights.pdf)  
+The Attorney General of the State of New York has published a guide that outlines the rights of tenants whose units are subject to the Rent Stabilization Law in New York City.
+
+[Housing Glossary](https://www1.nyc.gov/site/rentguidelinesboard/resources/glossary-of-rent-regulation-terms.page)  
+The Rent Guidelines Board maintains a glossary of housing-related terms that might be useful to those unfamiliar with the Rent Stabilization Law in New York City.
+
+[History of Rent Increases](https://www1.nyc.gov/assets/rentguidelinesboard/pdf/guidelines/aptorders2018.pdf)  
+A link to a pdf documenting the history of rent increases in New York City from 1968 until 2018.
+
+[Housing Court Answers](http://housingcourtanswers.org)  
+Housing Court Answers is a resource for tenants and small homeowners who do not have lawyers. Their website, information tables set up at housing court, and their hotline offer answers to many of the common questions about housing court.
+
+[Am I Rent-Stabilized?](https://amirentstabilized.com)  
+This website checks to verify if your address matches a list of buildings that are likely to have rent stabilized apartments. However, it is not 100% accurate so the best course of action is always to request your rent history and then seek the advice of a tenants rights group or housing lawyer.
+
+[Rentlogic](https://rentlogic.com)  
+Rentlogic is an online app that allows tenants to search their address and view an overall rating of their building. Rentlogic has gathered data from various City agencies on verified city-issued violations against buildings and built a rating system that works like a credit card score--unfavorable events and patterns drop a building’s rating, which recovers at a rate dependent on the severity of the issue. This article describes the app in better detail.
+
+[Displacement Alert Project](https://www.dapmapnyc.org)  
+The DAP Map is a building-by-building, web-based interactive map of New York City that specifically locates areas and neighborhoods in which tenants are most likely to be facing significant displacement pressures. The DAP Map is meant to be a strategic tool for tenant organizing and housing advocacy.
+
+[Just Fix NYC](https://www.justfix.nyc)  
+Just Fix NYC is a web-based service app that was designed to assist New Yorkers in documenting housing neglect or disrepair. Tenants, community organizations, and housing advocates can use the app to connect with others in similar situations and share information, document evidence of housing neglect, take legal action against their landlords, and share their stories with others.  
+
+[HeatSeek](https://heatseek.org/learn-more-how-we-work)  
+Is a pilot program that targets renters most at risk and installs heat sensors that record the temperature in the apartment and relay the data to the company’s website, which matches it to the temperature outside to determine if the apartment is in violation of the heating season requirements. Armed with this data, advocates, lawyers, and tenants can use legal means to enforce violations.
+
+[The Landlord Watchlist](https://advocate.nyc.gov/landlord-watchlist/worst-landlords)  
+The City’s response to the Tenant Blacklist, the Public Advocate’s Worst Landlords Watchlist is an information-sharing tool intended to allow tenants, advocates, and public officials to identify which property owners consistently violate the City’s housing regulations that are intended to protect the rights and safety of tenants. It publicly shames landlords in hopes that negative attention and fines will force them to provide better housing conditions to their tenants.
+
+
+[Rent Regulators](https://rentregulators.com)  
+Rent Regulators is a tenant consulting firm that was founded by two commercial real estate agents in Manhattan  who are interested in preserving affordable housing in New York City. The firm was founded when one of the co-founders discovered they were being overcharged for their rent-stabilized apartment and realized how little information there was available, even for people familiar with real estate rules and regulations.
+
+
+#### NYC Housing-Related Readings  
+____________________________________________________
+
+[From the New York Times' Archive](https://www.nytimes.com/topic/subject/rent-stabilization-and-rent-control?mcubz=0)  
+These search parameters list all the articles from the New York Times’ archive that discuss “Rent Stabilization and Rent Control”.
+
+[NYU Furman Center](http://furmancenter.org/research)  
+The NYU Furman Center advances research and debate on housing, neighborhoods, and urban policy. They produce a number of in depth reports on housing and housing-related issues.
+
+[NYC Housing and Vacancy Survey Reports](https://www1.nyc.gov/site/hpd/about/nychvs.page)  
+Every three years, the Department of Housing Preservation and Development (HPD) partners with the U.S. Census Bureau to conduct the New York City Housing and Vacancy Report. This report is used by the Rent Guidelines Board in making decisions about rent increases.
+
+[Tenants Under Siege](https://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)  
+“Tenants Under Siege: Inside New York City’s Housing Crisis” is Michael Greenberg’s long-form article that explores the roots the New York City Housing Crisis.
+
+[The Rent Deregulation Vote](https://www.propublica.org/article/the-vote-that-made-new-york-city-rents-so-high)  
+“The Fateful Vote That Made New York City Rents So High” details how landlords gained the ability to remove apartments from regulation has a surprising backstory.
+
+[Preferential Rents and Rent Hikes](https://www.propublica.org/article/new-york-landlords-exploit-loophole-to-hike-rents-despite-freeze)  
+This article discusses how landlords take advantage of loopholes to hike rents during a rent freeze and make is more difficult to tell if your unit is rent-regulated.
+
+[Preferential Rents and Loopholes](https://ny.curbed.com/2017/4/25/15425058/nyc-rent-stabilization-loophole-landlords)  
+This article evaluates how preferential rents are used strategically by landlords to evict tenants so as to convert rent-regulated units to market-rate.
+
+[Changes in Rent Regulation](http://blog.johnkrauss.com/where-is-decontrol/)  
+Hacktivist John Krauss and his colleagues scraped property tax bills from ACRIS (the City’s Automated City Register Information System) and created maps that visualize changes from 2007 to 2014.
+
+[The Endangered Rent-Controlled Apartment](https://citylimits.org/2015/03/09/nycs-endangered-species-a-rent-controlled-apartment/)  
+“NYC’s Endangered Species: A Rent-Controlled Apartment” highlights the difficult issues that rent-controlled tenants face in a housing market where rent-control is like an endangered species.
+
+[High-Rent Vacancy and High-Rent Income Deregulation](https://ny.curbed.com/2015/7/17/9939554/new-rent-laws-may-be-better-for-tenants-than-expected)  
+This article explains how new interpretations of the Rent Act of 2015 may make it harder to deregulate regulated housing units, but outlines some of difficulties in enforcing it.
+
+[De Blasio’s Housing Legacy](https://citylimits.org/2017/10/04/bill-de-blasio-is-still-in-his-first-term-and-were-already-debating-his-housing-legacy/)  
+This article debates the housing legacy of Mayor De Blasio and evaluates how the difficult choices he’s made have benefitted and helped the City’s most vulnerable tenants.
+
+[De Blasio’s Doomed Housing Plan](https://www.jacobinmag.com/2014/10/de-blasios-doomed-housing-plan/)  
+This article levies several thoughtful critiques against Mayor De Blasio housing plan, specifically Mandatory Inclusionary Zoning (MIH).
+
+[A Brief History of Rent Guidelines Board Decisions](https://citylimits.org/2015/06/29/a-brief-history-of-rent-guidelines-board-decisions/)  
+It should be noted that this article appeared right around when the Rent Guidelines Board decided to not allow rent increases for the first time ever for one-year leases.
+
+[Insider’s Guide to Rent-Stabilized Apartments](https://www.brickunderground.com/blog/2015/01/rent_stabilization_misconceptions)  
+This article addresses many of the myths surrounding rent-stabilized apartments in New York City.
+
+[Stabilizing NYC: The Predatory Equity Story](https://cdp.urbanjustice.org/sites/default/files/CDP.WEB.doc_Report_SNYCPredatoryEquity_20171214_0.pdf)  
+This report on predatory equity was issued by Stabilizing NYC (SNYC), and  explains predatory equity and the danger that it poses to preserving affordable housing for the New Yorkers who need it most.
